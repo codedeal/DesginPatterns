@@ -1,0 +1,5 @@
+package com.factorymethoddemoOne;
+
+public class FourWheeler extends Vehicle{
+
+}

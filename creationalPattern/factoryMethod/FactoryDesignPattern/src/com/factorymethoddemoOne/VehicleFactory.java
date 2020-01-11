@@ -1,0 +1,17 @@
+package com.factorymethoddemoOne;
+
+public class VehicleFactory
+{
+   
+	public Vehicle Create(VehicleType type)
+	   {
+		   if (type == VehicleType.VT_TwoWheeler) 
+		        return new TwoWheeler(); 
+		    else if (type ==  VehicleType.VT_ThreeWheeler) 
+		        return new ThreeWheeler(); 
+		    else if (type == VehicleType.VT_FourWheeler) 
+		        return new FourWheeler(); 
+		    else return null; 
+		   
+	   }
+}
