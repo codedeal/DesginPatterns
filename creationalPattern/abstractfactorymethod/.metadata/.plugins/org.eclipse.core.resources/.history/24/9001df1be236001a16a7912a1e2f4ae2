@@ -1,0 +1,26 @@
+package com.application;
+
+import com.basefactory.Guifactory;
+import com.guielements;
+
+public class Application 
+{
+	Guifactory factory;
+	Button button;
+	
+	public Application(Guifactory factory) 
+	{
+		this.factory = factory;
+		
+	}
+	void createUI()
+	{
+		
+	}
+	
+	void paint()
+	{
+		
+	}
+
+}

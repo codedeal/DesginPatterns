@@ -1,0 +1,6 @@
+Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
+ 
+
+Remember
+
+A factory is a class that returns products of a particular kind. For example, the ModernFurnitureFactory can only create ModernChair, ModernSofa and ModernCoffeeTable objects.

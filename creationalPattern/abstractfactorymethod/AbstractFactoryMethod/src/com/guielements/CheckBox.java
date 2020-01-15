@@ -1,0 +1,6 @@
+package com.guielements;
+
+public interface CheckBox
+{
+   void drawcheckBox();
+}

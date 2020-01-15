@@ -1,0 +1,5 @@
+package com.basefactory;
+
+public interface Guifactory {
+
+}

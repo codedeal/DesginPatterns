@@ -1,0 +1,22 @@
+package com.winfactory;
+
+import com.basefactory.Guifactory;
+
+public class WinFactory implements Guifactory
+{
+
+	@Override
+	public void createButton() 
+	{
+		System.out.print("for windows button");
+		
+	}
+
+	@Override
+	public void createCheckBox() 
+	{
+		
+		System.out.print("for windows checkboxx");
+	}
+
+}

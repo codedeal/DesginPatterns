@@ -1,0 +1,7 @@
+package com.basefactory;
+
+public interface Guifactory 
+{
+	void createButton();
+	void createCheckBox();
+}
