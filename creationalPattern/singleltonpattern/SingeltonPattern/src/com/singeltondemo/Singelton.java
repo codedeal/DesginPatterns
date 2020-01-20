@@ -15,4 +15,6 @@ class Singleton
          obj = new Singleton(); 
      return obj; 
  } 
+ 
+ 
 }

@@ -1,0 +1,5 @@
+package com.adapterPattern;
+
+public class LineAdapter {
+
+}

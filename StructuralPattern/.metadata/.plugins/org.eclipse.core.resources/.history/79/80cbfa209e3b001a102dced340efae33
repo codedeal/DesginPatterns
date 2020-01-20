@@ -1,0 +1,6 @@
+package com.adapterPattern;
+
+public class RectangleAdapter implements Shape
+{
+
+}
